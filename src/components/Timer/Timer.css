@@ -1,0 +1,36 @@
+@font-face {
+  font-family: Axiforma-ExtraBold;
+  src: url(../../fonts/Axiforma-ExtraBold.otf);
+}
+
+@font-face {
+  font-family: Axiforma-Regular;
+  src: url(../../fonts/Axiforma-Regular.otf);
+}
+
+.timer-container {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  padding: 25px !important;
+  padding-bottom: 35px !important;
+  background-color: white;
+}
+
+.time-display {
+  height: 70%;
+  font-family: Axiforma-ExtraBold;
+  font-size: 5em;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  flex-direction: column;
+  align-items: center;
+}
+
+.timer-button-container {
+  font-family: Axiforma-Regular;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 30%;
+}

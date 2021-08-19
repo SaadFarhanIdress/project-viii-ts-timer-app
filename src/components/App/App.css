@@ -1,0 +1,15 @@
+.app-container {
+  border-radius: 10px;
+  align-content: center;
+  padding: 30px;
+}
+
+.bottom-div {
+  text-align: center;
+  border-radius: 10px;
+  border: 1px solid black;
+  padding: 20px;
+  font-family: Axiforma-Regular;
+  background-color: white;
+  margin-top: 20px;
+}
